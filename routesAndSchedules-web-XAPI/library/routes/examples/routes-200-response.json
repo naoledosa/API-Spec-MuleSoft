@@ -1,0 +1,13 @@
+[
+  {
+    "companyCode": "International",
+    "source": {
+      "locationCode": "ET",
+      "description": "Ethiopian"
+    },
+    "destination": {
+      "locationCode": "BA",
+      "description": "Ethiopian Bahirdar"
+    }
+  }
+]

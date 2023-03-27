@@ -1,0 +1,21 @@
+#%RAML 1.0 DataType
+type: array
+items:
+  type: object
+  properties:
+    seats:
+      type: number
+      required: true
+      example: 20
+    departure:
+      type: string
+      required: true
+      example: "2023-03-22-GMT-3"
+    source:
+      type: string
+      required: true
+      example: "ET"
+    destination:                    
+      type: string
+      required: true
+      example: "BA"
